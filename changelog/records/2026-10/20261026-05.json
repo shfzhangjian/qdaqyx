@@ -1,0 +1,20 @@
+{
+  "id": "20261026-05",
+  "date": "2026-10-26",
+  "time": "09:55",
+  "type": "docs",
+  "scope": "docs",
+  "title": "建立开发交接工单机制（docs/handoffs + 模板 + agent.md §8）",
+  "detail": "改了什么：新增 docs/handoff-template.md 交接工单模板、docs/handoffs/ 目录及示例工单 passenger-injury-register.20261026-0955.md；agent.md 新增 §8 交接工单机制并补 §7 自检第 6 条。\n为什么改：人工要求，为未来新模块由开发智能体实现提供带时间戳、以模块命名的交接产物，明确数据源定义与界面要点。\n关键约束：排版与字段遵守原型、组件选型可不同；开发智能体必须先填 §6 差异对比 + §7 疑问、经人工确认（状态置「已确认·可开发」）后才写 src 代码。\n验证方式：文件落地核对，静态服务未受影响。",
+  "pages": [
+    "—"
+  ],
+  "author": "AI·Agent",
+  "categories": [
+    "docs"
+  ],
+  "tags": [
+    "交接",
+    "规范"
+  ]
+}

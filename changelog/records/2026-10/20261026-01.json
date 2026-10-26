@@ -1,0 +1,20 @@
+{
+  "id": "20261026-01",
+  "date": "2026-10-26",
+  "time": "16:00",
+  "type": "chore",
+  "scope": "build",
+  "title": "工程目录还原至原型基线",
+  "detail": "改了什么：删除此前生成的工程配置文件（package.json / vite.config.js / 根 index.html / scripts / prototypes / .git 等）；保留 src/ 全套 17 个 Vue 源文件与原型。当前 src/ 因缺工程配置不可编译（重建要点已写入 README §5.1）。\n为什么改：人工决定收敛为「原型为主、src 待迁移」的基线状态。\n验证方式：目录清点确认（index.html / README.md / serve.mjs / src/）。",
+  "pages": [
+    "—"
+  ],
+  "author": "人工",
+  "categories": [
+    "engineering"
+  ],
+  "tags": [
+    "原型",
+    "运行"
+  ]
+}

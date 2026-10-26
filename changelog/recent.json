@@ -1,0 +1,149 @@
+[
+  {
+    "id": "20261026-07",
+    "date": "2026-10-26",
+    "time": "10:28",
+    "type": "feat",
+    "scope": "changelog",
+    "title": "日志数据分离、分类与按需归档检索",
+    "pages": [
+      "—"
+    ],
+    "author": "AI·Agent",
+    "categories": [
+      "ui",
+      "data",
+      "docs",
+      "engineering"
+    ],
+    "tags": [
+      "日志",
+      "归档",
+      "索引",
+      "分类",
+      "token",
+      "检索"
+    ],
+    "file": "changelog/records/2026-10/20261026-07.json"
+  },
+  {
+    "id": "20261026-06",
+    "date": "2026-10-26",
+    "time": "10:17",
+    "type": "docs",
+    "scope": "docs",
+    "title": "修订智能体规范与交接验收约定",
+    "pages": [
+      "—"
+    ],
+    "author": "AI·Agent",
+    "categories": [
+      "docs"
+    ],
+    "tags": [
+      "交接",
+      "规范"
+    ],
+    "file": "changelog/records/2026-10/20261026-06.json"
+  },
+  {
+    "id": "20261026-05",
+    "date": "2026-10-26",
+    "time": "09:55",
+    "type": "docs",
+    "scope": "docs",
+    "title": "建立开发交接工单机制（docs/handoffs + 模板 + agent.md §8）",
+    "pages": [
+      "—"
+    ],
+    "author": "AI·Agent",
+    "categories": [
+      "docs"
+    ],
+    "tags": [
+      "交接",
+      "规范"
+    ],
+    "file": "changelog/records/2026-10/20261026-05.json"
+  },
+  {
+    "id": "20261026-04",
+    "date": "2026-10-26",
+    "time": "17:30",
+    "type": "docs",
+    "scope": "changelog",
+    "title": "建立 agent.md 智能体协作规范与更新日志看板",
+    "pages": [
+      "—"
+    ],
+    "author": "AI·Agent",
+    "categories": [
+      "docs"
+    ],
+    "tags": [
+      "原型",
+      "运行"
+    ],
+    "file": "changelog/records/2026-10/20261026-04.json"
+  },
+  {
+    "id": "20261026-03",
+    "date": "2026-10-26",
+    "time": "17:10",
+    "type": "docs",
+    "scope": "docs",
+    "title": "生成 README.md 全量交接文档（17 域 77 页菜单清单）",
+    "pages": [
+      "—"
+    ],
+    "author": "AI·Agent",
+    "categories": [
+      "docs"
+    ],
+    "tags": [
+      "交接",
+      "规范"
+    ],
+    "file": "changelog/records/2026-10/20261026-03.json"
+  },
+  {
+    "id": "20261026-02",
+    "date": "2026-10-26",
+    "time": "16:40",
+    "type": "chore",
+    "scope": "build",
+    "title": "demo.html 更名为 index.html 并提供零依赖静态服务器",
+    "pages": [
+      "—"
+    ],
+    "author": "AI·Agent",
+    "categories": [
+      "engineering"
+    ],
+    "tags": [
+      "原型",
+      "运行"
+    ],
+    "file": "changelog/records/2026-10/20261026-02.json"
+  },
+  {
+    "id": "20261026-01",
+    "date": "2026-10-26",
+    "time": "16:00",
+    "type": "chore",
+    "scope": "build",
+    "title": "工程目录还原至原型基线",
+    "pages": [
+      "—"
+    ],
+    "author": "人工",
+    "categories": [
+      "engineering"
+    ],
+    "tags": [
+      "原型",
+      "运行"
+    ],
+    "file": "changelog/records/2026-10/20261026-01.json"
+  }
+]

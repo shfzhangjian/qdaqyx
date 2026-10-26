@@ -1,0 +1,47 @@
+// 主题色 - 基于 UI 原型的绿色系
+$primary-color: #2d7a6e; // 深绿色 - 侧边栏和顶栏主色
+$primary-light: #3faa9a; // 翠绿色 - 选中状态、按钮
+$primary-dark: #1e5c52; // 深绿暗色 - hover 状态
+
+// 功能色
+$success-color: #3faa9a; // 成功/新增 - 绿色按钮
+$danger-color: #f56c6c; // 危险/删除 - 红色按钮
+$warning-color: #e6a23c; // 警告
+$info-color: #909399; // 信息
+
+// 背景色
+$sidebar-bg: #2d7a6e; // 侧边栏背景
+$header-bg: #2d7a6e; // 顶栏背景
+$content-bg: #f0f2f5; // 内容区背景
+$card-bg: #ffffff; // 卡片背景
+
+// 文字色
+$text-primary: #303133; // 主要文字
+$text-regular: #606266; // 常规文字
+$text-secondary: #909399; // 次要文字
+$text-placeholder: #c0c4cc; // 占位文字
+
+// 边框色
+$border-color: #dcdfe6; // 边框
+$border-light: #e4e7ed; // 浅边框
+
+// 尺寸
+$sidebar-width: 240px; // 侧边栏宽度
+$header-height: 60px; // 顶栏高度
+
+// 间距
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+
+// 圆角
+$border-radius-sm: 4px;
+$border-radius-md: 8px;
+$border-radius-lg: 12px;
+
+// 阴影
+$shadow-light: 0 2px 8px rgba(0, 0, 0, 0.08);
+$shadow-md: 0 4px 12px rgba(0, 0, 0, 0.1);
+$shadow-heavy: 0 8px 24px rgba(0, 0, 0, 0.12);

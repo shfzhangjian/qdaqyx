@@ -1,0 +1,1 @@
+window.CHANGELOG_DATA=window.CHANGELOG_DATA||{};window.CHANGELOG_DATA["changelog/manifest.json"]={"version":1,"total":7,"recentLimit":50,"shardLimit":100,"categories":{"ui":1,"data":1,"docs":5,"engineering":3},"buckets":[{"month":"2026-10","file":"changelog/index/2026-10.001.json","count":7,"categories":["ui","data","docs","engineering"],"scopes":["changelog","docs","build"]}]};
